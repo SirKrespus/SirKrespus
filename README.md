@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ofir, im 31 years old. (@SirKrespus)
+- 👋 Hi, My name is Ofir Krespi5=96, im 31 years old. (@SirKrespus)
 - 👀 I’m interested in coding, Video games and from time to time I enjoy playing board games. 
 - 🌱 I’m currently learning Game Development with Unity engine.
 - 💞️ I’m looking forward to collaborate with people worldwide, to solve issues and improve my skills.
