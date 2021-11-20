@@ -1,5 +1,6 @@
 - 👋 Hi, My name is Ofir Krespi, im 31 years old. (@SirKrespus)
-- 👀 I’m interested in coding, Video games and from time to time I enjoy playing board games. 
+- 👀 I’m interested in coding, Video games and from time to time I enjoy playing board games.
+- :soccer: I also enjoy sports and play soccer once a week.
 - 🌱 I’m currently learning Game Development with Unity engine.
 - 💞️ I’m looking forward to collaborate with people worldwide, to solve issues and improve my skills.
 - 📫 You can reach me by E-Mail - krespiofir@gmail.com
